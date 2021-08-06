@@ -1,0 +1,15 @@
+.aside{
+    background-color: #0c1241;
+   padding: 15px;
+   margin-top:50px;
+}
+
+.aside ul li:hover{
+    color: #0c1241;
+    background-color: #a0fad2; 
+    font-weight: bold;   
+}
+.formerrors
+{
+	color:red;
+}
